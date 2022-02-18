@@ -4,7 +4,7 @@
 Pranusha is Passionate and Enthusiastic about exploring new technology along with being a quick learner. 😊
 
 
-- 🔭 I’m currently working on my Front-END skills and Graphic Design
+
 - 🌱 I’m currently learning Java and data structures 
 - 📫 You can reach me : pranushathokala895@gmail.com
 - ⚡ Fun fact: I love to code 😜
