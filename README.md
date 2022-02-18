@@ -33,7 +33,6 @@ Pranusha is Passionate and Enthusiastic about exploring new technology along wit
 <!--   <a href="https://github.com/Prt200/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prt200&layout=compact&theme=buefy&hide_border=true" /></a> 
 </p> -->
 
-[![Prt200's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Prt200&theme=xcode)](https://git.io/Prt200)
    
 
 
