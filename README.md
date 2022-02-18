@@ -19,8 +19,8 @@ Pranusha is Passionate and Enthusiastic about exploring new technology along wit
  -->
 ## Social Media
 
-[<img src="https://img.shields.io/badge/TaraChoudhary-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pranusha-thokala-71086aba/)
-[<img src = "https://img.shields.io/badge/TaraChoudhary-%181717.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=E4405F">](https://www.instagram.com/pranu2817/)
+[<img src="https://img.shields.io/badge/Pranusha-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pranusha-thokala-71086aba/)
+[<img src = "https://img.shields.io/badge/Pranusha-%181717.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=E4405F">](https://www.instagram.com/pranu2817/)
 
 
 
